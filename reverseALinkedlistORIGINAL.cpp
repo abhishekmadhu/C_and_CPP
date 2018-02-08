@@ -1,8 +1,9 @@
 #include <bits/stdc++.h>
+//use #include<stdio.h> for C
 #define st struct stu
 
 
-using namespace std;
+using namespace std;    //remove this line for C
 
 struct stu
 {
